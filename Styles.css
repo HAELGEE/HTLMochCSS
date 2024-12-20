@@ -1,0 +1,48 @@
+body
+{
+    background-color: rgb(153, 38, 115);
+    font-variant: small-caps;    
+
+    font-family: verdana, Helvetica, 'Courier new', Courier, monospace, sans-serif;
+
+    padding: 0;
+    margin: 0;
+}
+
+h1
+{
+    font-size: 80px;            
+}
+
+
+Nav
+{
+    background-color: rgb(113, 113, 241);
+}
+
+main
+{
+    background-color: rgb(65, 185, 129);
+}
+
+
+#Header1 
+{
+    color: green;   
+    text-align: center; 
+}
+
+#Header2 
+{
+    color: red;
+}
+
+#BananaID
+{
+    color: rgb(223, 223, 47);
+}
+
+.MelonClass
+{
+    color: green;
+}
