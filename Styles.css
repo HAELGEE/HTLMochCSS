@@ -25,6 +25,10 @@ main
     background-color: rgb(65, 185, 129);
 }
 
+#Footer
+{
+    text-align: end;
+}
 
 #Header1 
 {
